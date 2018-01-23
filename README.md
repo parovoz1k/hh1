@@ -1,2 +1,2 @@
 # hh
-# ![мой инст]<https://www.instagram.com/i_pronin/>
+ [инст](https://www.instagram.com/i_pronin/)
